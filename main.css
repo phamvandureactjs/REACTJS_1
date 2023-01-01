@@ -1,0 +1,39 @@
+.header{
+        
+        width: 100%;
+        padding: 30px;
+        font-size: 30px;
+        margin: 5px;
+        background-color: rgb(23, 107, 107);
+        color: aliceblue;
+}
+div.top_gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.top_gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+div.desc_bt {
+    padding: 15px;
+    text-align: center;
+  }
+  div.bottom_gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+  }
+  div.bottom_gallery img {
+    width: 100%;
+    height: auto;
+  }
